@@ -73,7 +73,7 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/jofpin/trape.git
+git clone https://github.com/rbrtjns90/trape.git
 cd trape
 python3 trape.py -h
 ```
@@ -149,10 +149,12 @@ Developer
 -------
 This development and others, the participants will be mentioned with name, Twitter and charge.
 
-* **CREATOR**
+**ORIGINAL CREATOR**
 
   --- Jose Pino - [@jofpin](https://twitter.com/jofpin) - (**Security Researcher**) 
- 
+  
+**UPDATER FROM ABANDONWARE**
+  --- Robert Jones - [@queloquesocio](https://x.com/queloquesocio) -
 
 Happy hacking!
 -------
@@ -163,6 +165,6 @@ I invite you, if you use this tool helps to share, collaborate. Let's make the I
 
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
-Copyright, 2018 by [Jose Pino](https://twitter.com/jofpin) 
+Copyright, 2023
 
 -------------
