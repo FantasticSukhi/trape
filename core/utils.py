@@ -7,9 +7,9 @@
 #########
 #
 # trape depends of this file
-# For full copyright information this visit: https://github.com/jofpin/trape
+# For full copyright information this visit: https://github.com/FantasticSukhi/trape
 #
-# Copyright 2018 by Jose Pino (@jofpin) / <jofpin@gmail.com>
+# Copyright 2025 by Jose Pino (@jofpin) / <jofpin@gmail.com>
 #**
 import random
 import hashlib
@@ -65,7 +65,7 @@ class utils:
         utils.Go("\t" + utils.Color['redBold'] + "|  _) / ___) _  |  _ \ / _  )")
         utils.Go("\t" + utils.Color['redBold'] + "| |__| |  ( ( | | | | ( (/ / ")
         utils.Go("\t" + utils.Color['redBold'] + " \___)_|   \_||_| ||_/ \____)")
-        utils.Go("\t" + utils.Color['redBold'] + "                |_|" + utils.Color['white'] + " 2018 by " + utils.Color['whiteBold'] + "Jose Pino" + utils.Color['white'] + " (" + utils.Color['blue'] + "@jofpin" + utils.Color['white'] + ")" + utils.Color['white'])
+        utils.Go("\t" + utils.Color['redBold'] + "                |_|" + utils.Color['white'] + " 2025 by " + utils.Color['whiteBold'] + "FantasticSukhi" + utils.Color['white'] + " (" + utils.Color['blue'] + "@jofpin" + utils.Color['white'] + ")" + utils.Color['white'])
         utils.Go("\t" + "-----------------------------------------------")
         utils.Go(utils.Color['green'] + "\t" + "People tracker on internet for OSINT research " + utils.Color['white'] + "|=-" + utils.Color['white'])
         utils.Go("\t" + "-----------------------------------------------")
