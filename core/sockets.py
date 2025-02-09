@@ -7,7 +7,7 @@
 #########
 #
 # trape depends of this file
-# For full copyright information this visit: https://github.com/jofpin/trape
+# For full copyright information this visit: https://github.com/FantasticSukhi/trape
 #
 # Copyright 2018 by Jose Pino (@jofpin) / <jofpin@gmail.com>
 #**
