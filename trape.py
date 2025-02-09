@@ -9,12 +9,12 @@
 # Learn to track the world, to avoid being traced
 #
 # @version     2.1
-# @link        https://github.com/jofpin/trape
-# @author      Jose Pino (@jofpin)
-# @copyright   2018 by Jose Pino / <jofpin@gmail.com>
+# @link        https://github.com/FantasticSukhi /trape
+# @author      Jose Pino (@FantasticSukhi )
+# @copyright   2018 by Jose Pino / <Jofpin @gmail.com>
 #
 # This file is the boot in Trape.
-# For full copyright information this visit: https://github.com/jofpin/trape
+# For full copyright information this visit: https://github.com/FantasticSukhi /trape
 #
 #**
 #
@@ -58,13 +58,13 @@ if generateData.firstTime:
     utils.Go("This is a exclusive version for researchers, or professionals \nwho are dedicated to research, we hope you enjoy." + "\n")
     utils.Go(utils.Color['whiteBold'] + "DISCLAIMER" + utils.Color['white'])
     utils.Go("------")
-    utils.Go("This is a monitoring and research tool " + utils.Color['whiteBold'] + "OSINT" + utils.Color['white'] + ", which is distributed \nfor educational and investigative purposes, the person who has bought \nor uses this tool is responsible for its proper use or actions committed, \n" + utils.Color['whiteBold'] + "Jose Pino" + utils.Color['white'] + " (" + utils.Color['blue'] + "@jofpin" + utils.Color['white'] + ") is not responsible for the use Or the scope that people can have \nthrough this software." + "\n")
+    utils.Go("This is a monitoring and research tool " + utils.Color['whiteBold'] + "OSINT" + utils.Color['white'] + ", which is distributed \nfor educational and investigative purposes, the person who has bought \nor uses this tool is responsible for its proper use or actions committed, \n" + utils.Color['whiteBold'] + "Jose Pino" + utils.Color['white'] + " (" + utils.Color['blue'] + "@FantasticSukhi " + utils.Color['white'] + ") is not responsible for the use Or the scope that people can have \nthrough this software." + "\n")
     utils.Go(utils.Color['whiteBold']+ "CREATOR" + utils.Color['white'])
     utils.Go("------")
     utils.Go(utils.Color["white"] + "- " + utils.Color["greenBold"] + "NAME: " + utils.Color['white'] + "Jose Pino" + " " + utils.Color['white'])
     utils.Go(utils.Color["white"] + "- " + utils.Color["greenBold"] + "DESCRIPTION: " + utils.Color['white'] + "Hacker recognized by large technology companies")
-    utils.Go(utils.Color["white"] + "- " + utils.Color["greenBold"] + "GITHUB: " + utils.Color['white'] + "https://github.com/jofpin")
-    utils.Go(utils.Color["white"] + "- " + utils.Color["greenBold"] + "TWITTER: " + utils.Color['white'] + "https://twitter.com/jofpin" + utils.Color['white'] + "\n")
+    utils.Go(utils.Color["white"] + "- " + utils.Color["greenBold"] + "GITHUB: " + utils.Color['white'] + "https://github.com/FantasticSukhi ")
+    utils.Go(utils.Color["white"] + "- " + utils.Color["greenBold"] + "TWITTER: " + utils.Color['white'] + "https://twitter.com/FantasticSukhi " + utils.Color['white'] + "\n")
     sleep(3)
     utils.Go("Press enter to Continue...")
     input()
